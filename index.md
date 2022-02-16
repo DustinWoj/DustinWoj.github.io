@@ -14,7 +14,7 @@ I'll add those links in a few!
 Will add stuff in.
 
 ### Check out my YouTube videos.
-Watch as I cover key aspects of Computer Science.
+I'll have clips of my projects in action soon!
 
 ### Support or Contact
 Feel free to email me at dustinwojciechowski@gmail.com.
