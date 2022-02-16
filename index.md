@@ -1,7 +1,7 @@
 ### Welcome to My Page.
 My name is Dustin Wojciechowski. I am a software engineer that has worked within a couple of different domains. My current interest is in XR: VR, AR, and Mixed Reality.
 
-### Check out my <a href="https://github.com/DustinWoj/github-pages-with-jekyll">blog.</a>
+### Check out my <a href="https://dustinwoj.github.io/github-pages-with-jekyll/">blog.</a>
 
 ### More info about my XR Apps.
 Check back soon!
